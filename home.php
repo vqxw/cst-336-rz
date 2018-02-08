@@ -14,7 +14,7 @@
         
         <nav>
            <hr width = "50%"/>
-           <a href="home.html"><strong> Home </strong></a>
+           <a href="home.php"><strong> Home </strong></a>
            <a href="howItsDone.html"> How It's Done </a>
            <a href="process.html"> Process </a>
            <a href="result.html"> Result </a>
